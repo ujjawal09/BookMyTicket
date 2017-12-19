@@ -1,4 +1,4 @@
-package com.example.rocky_pc.projectglobsyn;
+
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
