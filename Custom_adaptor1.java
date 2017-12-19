@@ -1,4 +1,4 @@
-package com.example.rocky_pc.projectglobsyn;
+
 
 import android.app.Activity;
 import android.view.LayoutInflater;
