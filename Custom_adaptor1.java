@@ -9,9 +9,7 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-/**
- * Created by ARNAB CHOUDHURY on 27-07-2016.
- */
+
 public class Custom_adaptor1 extends ArrayAdapter {
     Activity context;
     ArrayList<PRODUCT> products;
