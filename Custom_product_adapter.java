@@ -11,9 +11,7 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-/**
- * Created by Rocky - PC on 7/27/2016.
- */
+
 public class Custom_product_adapter extends ArrayAdapter<MovieItem> {
     Activity context;
     ArrayList<MovieItem> movies;
